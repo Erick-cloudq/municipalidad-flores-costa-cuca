@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#102a30">
+  <meta name="description" content="Descubre Flores Costa Cuca, Quetzaltenango: sus orígenes, fotografías, historia y un archivo documentado de sus alcaldes.">
+  <title>Flores Costa Cuca · Historia, territorio y comunidad</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='18' fill='%23102a30'/%3E%3Ctext x='32' y='42' text-anchor='middle' fill='%23d3f08b' font-family='Arial' font-size='28' font-weight='bold'%3EFC%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="data.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#contenido">Saltar al contenido</a>
+  <header class="site-header">
+    <a class="brand" href="#inicio" aria-label="Flores Costa Cuca, inicio"><img src="escudo.jpg" alt="Escudo de Flores Costa Cuca" width="42" height="48"><span>Flores Costa Cuca<small>Municipalidad · Quetzaltenango</small></span></a>
+    <nav aria-label="Navegación principal" id="navigation"><a href="#historia">Nuestra historia</a><a href="#alcaldes">Alcaldes</a><a href="#galeria">El municipio</a><a href="#municipalidad">Municipalidad</a></nav>
+    <div class="header-actions"><button class="icon-button" id="theme-toggle" aria-label="Cambiar a modo oscuro" title="Cambiar apariencia"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M20 15.5A8.5 8.5 0 0 1 8.5 4 8.5 8.5 0 1 0 20 15.5Z"/></svg></button><a class="header-cta" href="#historia">Descubre Flores</a><button id="menu-toggle" class="icon-button menu-toggle" aria-controls="navigation" aria-expanded="false" aria-label="Abrir menú"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button></div>
+  </header>
+  <main id="contenido">
+    <section class="hero" id="inicio" aria-label="Bienvenida a Flores Costa Cuca">
+      <img class="hero-image" src="parque.jpg" alt="Parque central de Flores Costa Cuca, fotografiado de noche en 2012" width="1600" height="1100" fetchpriority="high">
+      <div class="hero-shade"></div>
+      <div class="hero-content"><p class="eyebrow light">GUATEMALA / QUETZALTENANGO</p><h1>Un municipio.<br>Muchas <em>historias.</em></h1><p class="hero-description">Conoce Flores Costa Cuca: sus raíces, su gente y la memoria de quienes han guiado su camino.</p><div class="hero-buttons"><a class="button lime" href="#historia">Explorar su historia</a><a class="button translucent" href="#alcaldes">Conocer a sus alcaldes</a></div></div>
+      <div class="hero-bottom"><div><span>FLORES COSTA CUCA</span><p>Historia, territorio y comunidad.</p></div><span class="hero-year">DESDE <strong>1900</strong></span><a class="scroll-hint" href="#historia" aria-label="Continuar a la historia"><span>Continúa explorando</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><path d="M12 3v18M5 14l7 7 7-7"/></svg></a></div>
+    </section>
+    <div class="identity-strip"><div><span>18 DIC. 1900</span><p>Creación del municipio</p></div><div><span>QUETZALTENANGO</span><p>Nuestro departamento</p></div><div><span>COSTA CUCA</span><p>Una región que nos conecta</p></div><a href="#galeria">Un lugar por descubrir <span aria-hidden="true">＋</span></a></div>
+
+    <section class="section history-section" id="historia">
+      <div class="section-heading reveal"><div><p class="eyebrow">01 / NUESTRAS RAÍCES</p><h2>Del Zapote<br><em>al presente.</em></h2></div><p>Cada época dejó una huella. Recorre los momentos que dieron forma a Flores Costa Cuca.</p></div>
+      <div class="timeline-tabs" id="timeline-tabs" role="tablist" aria-label="Momentos de la historia"></div>
+      <div class="history-layout reveal"><div class="history-photo"><img src="parque.jpg" alt="Parque central de Flores Costa Cuca" width="1000" height="1300" loading="lazy"><div class="photo-label">MEMORIA DE UN MUNICIPIO<span>Flores Costa Cuca, Guatemala</span></div></div><article id="timeline-detail" class="timeline-detail" role="tabpanel" tabindex="0" aria-live="polite"></article></div>
+    </section>
+
+    <section class="mayors-section" id="alcaldes"><div class="section">
+      <div class="section-heading reveal"><div><p class="eyebrow">02 / MEMORIA MUNICIPAL</p><h2>Quienes guiaron<br><em>nuestro camino.</em></h2></div><p>Un archivo para conocer a los alcaldes del municipio, sus períodos y las fuentes que conservan su historia.</p></div>
+      <div class="archive-notice"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M5 3h14v18H5zM9 7h6M9 11h6M9 15h4"/></svg><p><strong>Un archivo en reconstrucción.</strong> Los registros anteriores a 1985 todavía no permiten una lista completa. El incendio del archivo municipal en 2008 dificulta la reconstrucción. Aquí se distingue entre períodos electorales y años documentados.</p><a href="#fuentes">Consultar fuentes</a></div>
+      <div class="archive-controls"><label class="search-field"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="10" cy="10" r="6"/><path d="m15 15 5 5"/></svg><span class="sr-only">Buscar alcalde</span><input id="mayor-search" type="search" placeholder="Busca un alcalde por su nombre…" autocomplete="off"></label><label class="period-select"><span class="sr-only">Filtrar por época</span><select id="period-filter"><option value="all">Todas las épocas</option><option value="1985-2003">1985–2003</option><option value="2004-2019">2004–2019</option><option value="2020-2028">2020–2028</option></select></label><span id="results-count" aria-live="polite"></span></div>
+      <div class="mayor-grid" id="mayor-grid"></div><div class="empty-state" id="empty-state" hidden><h3>No encontramos coincidencias.</h3><p>Prueba con otro nombre o cambia la época.</p><button class="button dark" id="clear-filters">Restablecer búsqueda</button></div>
+      <div class="archive-footnote"><span>1900–1984</span><p>Períodos pendientes de reconstrucción documental. Este archivo no se presenta como una lista completa de todos los alcaldes.</p></div>
+    </div></section>
+
+    <section class="section gallery-section" id="galeria"><div class="section-heading reveal"><div><p class="eyebrow">03 / NUESTRO TERRITORIO</p><h2>Flores, desde<br><em>cerca.</em></h2></div><p>El parque central y los símbolos de Flores Costa Cuca: detalles de un espacio compartido.</p></div><div class="gallery-grid" id="gallery-grid"></div><p class="gallery-note">La fotografía del parque es de 2012 y se presenta completa y en detalle. Abre cada imagen para consultar su fecha, autor y fuente.</p></section>
+
+    <section class="municipal-section" id="municipalidad"><div class="section municipal-layout"><div class="reveal"><p class="eyebrow">04 / MUNICIPALIDAD</p><h2>Más cerca<br><em>de tu municipio.</em></h2><p class="municipal-intro">Ubica el edificio municipal y consulta la información pública en los canales de la municipalidad.</p><dl class="contact-list"><div><dt>Dirección</dt><dd>Edificio municipal, frente al parque central<br>Flores Costa Cuca, Quetzaltenango</dd></div><div><dt>Información pública</dt><dd>Historia, directorios, presupuestos y documentos municipales.</dd></div></dl><div class="municipal-buttons"><a class="button lime" href="https://www.muniflorescostacuca.laip.gt/" target="_blank" rel="noopener noreferrer">Portal de información pública</a><a class="text-link" href="https://www.google.com/maps/search/?api=1&query=Municipalidad+de+Flores+Costa+Cuca+Quetzaltenango+Guatemala" target="_blank" rel="noopener noreferrer">Ver ubicación en Google Maps</a></div></div><div class="map-card reveal"><iframe title="Mapa de Flores Costa Cuca, Quetzaltenango" src="https://www.google.com/maps?q=Municipalidad%20de%20Flores%20Costa%20Cuca%20Quetzaltenango%20Guatemala&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe><div><span>FLORES COSTA CUCA</span><p>Quetzaltenango · Guatemala</p></div></div></div></section>
+
+    <section class="section sources-section" id="fuentes"><div><p class="eyebrow">HISTORIA CON RESPALDO</p><h2>Las fuentes<br><em>también cuentan.</em></h2><p>El contenido se basa en documentos municipales, estudios y registros electorales. Cada ficha enlaza su evidencia.</p></div><div class="sources-list" id="sources-list"></div></section>
+  </main>
+  <footer><div class="footer-top"><a class="brand" href="#inicio"><img src="escudo.jpg" alt="" width="40" height="46"><span>Flores Costa Cuca<small>Historia, territorio y comunidad</small></span></a><a href="#inicio">Volver al inicio</a></div><div class="footer-bottom"><p>Proyecto informativo independiente sobre Flores Costa Cuca. Consulta los canales municipales para información oficial.</p><p>Investigación: octubre de 2026 · <button id="credits-button">Créditos y fotografías</button></p></div></footer>
+  <dialog id="detail-dialog" class="detail-dialog" aria-labelledby="dialog-title"><button class="dialog-close" id="dialog-close" aria-label="Cerrar ventana">×</button><div id="dialog-body"></div></dialog>
+  <dialog id="photo-dialog" class="photo-dialog" aria-labelledby="photo-title"><button class="dialog-close" id="photo-close" aria-label="Cerrar fotografía">×</button><img id="photo-image" alt=""><div class="photo-caption"><h3 id="photo-title"></h3><p id="photo-credit"></p><a id="photo-source" target="_blank" rel="noopener noreferrer">Ver fotografía original</a></div></dialog>
+</body>
+</html>

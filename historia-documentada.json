@@ -1,0 +1,948 @@
+{
+  "schemaVersion": 2,
+  "municipio": "Flores Costa Cuca",
+  "departamento": "Quetzaltenango",
+  "pais": "Guatemala",
+  "fechaContextual": "2026-10-06",
+  "tituloRegistro": "Alcaldes documentados de Flores Costa Cuca",
+  "estado": "Investigación pública parcial; no equivale a una nómina completa desde 1900.",
+  "editorialRules": [
+    "Mostrar 'año observado' o 'elección documentada' cuando no exista un período explícito.",
+    "Las ventanas electorales de ASIES corresponden a su método estadístico y no deben mostrarse como fechas exactas de posesión.",
+    "No unir los tramos de Tito Natanael Vásquez López: Oswaldo Cecilio Girón Arreaga fue adjudicado en 2003.",
+    "Los períodos recientes se registran por separado, con sus fuentes explícitas; no se infiere continuidad entre observaciones.",
+    "Usar Flores Costa Cuca como denominación geográfica. La Violeta de América puede explicarse como lema histórico; no sustituir el nombre oficial.",
+    "No afirmar que el incendio eliminó toda copia existente ni que imposibilita definitivamente la reconstrucción de alcaldes.",
+    "No publicar retratos ni obras atribuidas a un alcalde sin fuente adicional."
+  ],
+  "timeline": [
+    {
+      "id": "1873",
+      "year": 1873,
+      "date": "1873-07-22",
+      "title": "Colonización de la Costa Cuca",
+      "description": "Un acuerdo dispuso la enajenación de terrenos baldíos de la región y El Palmar.",
+      "status": "documentado",
+      "sources": [
+        {
+          "id": "segeplan",
+          "label": "SEGEPLAN · Plan de Desarrollo Municipal de Flores Costa Cuca",
+          "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2022/09/PDM_922-1.pdf",
+          "kind": "institucional",
+          "pages": "18–19"
+        },
+        {
+          "id": "usac",
+          "label": "USAC · Diagnóstico socioeconómico de Flores Costa Cuca (2013)",
+          "url": "https://biblioteca.usac.edu.gt/EPS/03/03_0860_v1.pdf",
+          "kind": "academica",
+          "pages": "9–12"
+        }
+      ]
+    },
+    {
+      "id": "1880",
+      "year": 1880,
+      "date": "1880-10-31",
+      "title": "Flores aparece como caserío",
+      "description": "El censo citado por SEGEPLAN registra a Flores como caserío con alcalde auxiliar.",
+      "status": "documentado",
+      "sources": [
+        {
+          "id": "segeplan",
+          "label": "SEGEPLAN · Plan de Desarrollo Municipal de Flores Costa Cuca",
+          "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2022/09/PDM_922-1.pdf",
+          "kind": "institucional",
+          "pages": "18–19"
+        }
+      ]
+    },
+    {
+      "id": "1900",
+      "year": 1900,
+      "date": "1900-12-18",
+      "title": "Creación del municipio",
+      "description": "La aldea El Zapote se independizó de Colomba con la denominación de Flores.",
+      "status": "documentado",
+      "sources": [
+        {
+          "id": "segeplan",
+          "label": "SEGEPLAN · Plan de Desarrollo Municipal de Flores Costa Cuca",
+          "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2022/09/PDM_922-1.pdf",
+          "kind": "institucional",
+          "pages": "18–19"
+        },
+        {
+          "id": "usac",
+          "label": "USAC · Diagnóstico socioeconómico de Flores Costa Cuca (2013)",
+          "url": "https://biblioteca.usac.edu.gt/EPS/03/03_0860_v1.pdf",
+          "kind": "academica",
+          "pages": "9–12"
+        }
+      ]
+    },
+    {
+      "id": "1903",
+      "year": 1903,
+      "date": "1903-08-31",
+      "title": "Oficina telegráfica",
+      "description": "Un acuerdo gubernativo estableció la oficina de telégrafos.",
+      "status": "documentado",
+      "sources": [
+        {
+          "id": "segeplan",
+          "label": "SEGEPLAN · Plan de Desarrollo Municipal de Flores Costa Cuca",
+          "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2022/09/PDM_922-1.pdf",
+          "kind": "institucional",
+          "pages": "18–19"
+        }
+      ]
+    },
+    {
+      "id": "1911",
+      "year": 1911,
+      "date": "1911-05-20",
+      "title": "Proyecto de traslado",
+      "description": "Se autorizó trasladar la población para aprovechar el Ferrocarril Panamericano.",
+      "status": "documentado",
+      "sources": [
+        {
+          "id": "segeplan",
+          "label": "SEGEPLAN · Plan de Desarrollo Municipal de Flores Costa Cuca",
+          "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2022/09/PDM_922-1.pdf",
+          "kind": "institucional",
+          "pages": "18–19"
+        },
+        {
+          "id": "usac",
+          "label": "USAC · Diagnóstico socioeconómico de Flores Costa Cuca (2013)",
+          "url": "https://biblioteca.usac.edu.gt/EPS/03/03_0860_v1.pdf",
+          "kind": "academica",
+          "pages": "9–12"
+        }
+      ]
+    },
+    {
+      "id": "1912",
+      "year": 1912,
+      "date": "1912-11-30",
+      "title": "El traslado queda sin efecto",
+      "description": "USAC describe la rescisión del traslado proyectado hacia la actual Villa Hermosa.",
+      "status": "documentado_con_discrepancia",
+      "note": "SEGEPLAN escribe que el negocio 'se inscribió'; USAC dice que quedó rescindido. Cotejar el acuerdo original antes de ampliar este hito.",
+      "sources": [
+        {
+          "id": "usac",
+          "label": "USAC · Diagnóstico socioeconómico de Flores Costa Cuca (2013)",
+          "url": "https://biblioteca.usac.edu.gt/EPS/03/03_0860_v1.pdf",
+          "kind": "academica",
+          "pages": "9–12"
+        },
+        {
+          "id": "segeplan",
+          "label": "SEGEPLAN · Plan de Desarrollo Municipal de Flores Costa Cuca",
+          "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2022/09/PDM_922-1.pdf",
+          "kind": "institucional",
+          "pages": "18–19"
+        }
+      ]
+    },
+    {
+      "id": "1937",
+      "year": 1937,
+      "date": "1937-12-22",
+      "title": "Proyecto hidroeléctrico",
+      "description": "Se autorizó la instalación municipal de una planta en la finca Santa Elisa.",
+      "status": "documentado",
+      "sources": [
+        {
+          "id": "segeplan",
+          "label": "SEGEPLAN · Plan de Desarrollo Municipal de Flores Costa Cuca",
+          "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2022/09/PDM_922-1.pdf",
+          "kind": "institucional",
+          "pages": "18–19"
+        }
+      ]
+    },
+    {
+      "id": "1938",
+      "year": 1938,
+      "date": "1938-10-01",
+      "title": "Empresa eléctrica municipal",
+      "description": "Un acuerdo del Ejecutivo recogió el reglamento de la empresa eléctrica.",
+      "status": "documentado",
+      "sources": [
+        {
+          "id": "segeplan",
+          "label": "SEGEPLAN · Plan de Desarrollo Municipal de Flores Costa Cuca",
+          "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2022/09/PDM_922-1.pdf",
+          "kind": "institucional",
+          "pages": "18–19"
+        }
+      ]
+    },
+    {
+      "id": "1959",
+      "year": 1959,
+      "date": "1959-05-21",
+      "title": "Límite con Génova",
+      "description": "Un acuerdo fijó el río El Rosario como límite entre ambos municipios.",
+      "status": "documentado",
+      "sources": [
+        {
+          "id": "segeplan",
+          "label": "SEGEPLAN · Plan de Desarrollo Municipal de Flores Costa Cuca",
+          "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2022/09/PDM_922-1.pdf",
+          "kind": "institucional",
+          "pages": "18–19"
+        }
+      ]
+    },
+    {
+      "id": "1974",
+      "year": 1974,
+      "date": "1974-06",
+      "title": "Conexión vial con Génova",
+      "description": "Se inauguró el tramo de cuatro kilómetros entre las cabeceras.",
+      "status": "documentado",
+      "sources": [
+        {
+          "id": "segeplan",
+          "label": "SEGEPLAN · Plan de Desarrollo Municipal de Flores Costa Cuca",
+          "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2022/09/PDM_922-1.pdf",
+          "kind": "institucional",
+          "pages": "18–19"
+        }
+      ]
+    },
+    {
+      "id": "1986",
+      "year": 1986,
+      "date": "1986",
+      "title": "Un lema en la memoria local",
+      "description": "USAC registra el lema La Violeta de América y al alcalde Israel de León Maldonado en el acta 4-86.",
+      "status": "documentado",
+      "sources": [
+        {
+          "id": "usac",
+          "label": "USAC · Diagnóstico socioeconómico de Flores Costa Cuca (2013)",
+          "url": "https://biblioteca.usac.edu.gt/EPS/03/03_0860_v1.pdf",
+          "kind": "academica",
+          "pages": "9–12"
+        }
+      ]
+    },
+    {
+      "id": "2008",
+      "year": 2008,
+      "date": "2008-01-14",
+      "title": "Incendio del archivo municipal",
+      "description": "El Congreso documenta la destrucción total de libros del Registro Civil y asientos de cédulas de vecindad.",
+      "status": "documentado",
+      "sources": [
+        {
+          "id": "congreso2008",
+          "label": "Congreso · Decreto 9-2008, reposición del Registro Civil",
+          "url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/2008/09-2008.pdf",
+          "kind": "primaria",
+          "pages": "1–2"
+        },
+        {
+          "id": "usac",
+          "label": "USAC · Diagnóstico socioeconómico de Flores Costa Cuca (2013)",
+          "url": "https://biblioteca.usac.edu.gt/EPS/03/03_0860_v1.pdf",
+          "kind": "academica",
+          "pages": "9–12"
+        }
+      ]
+    },
+    {
+      "id": "2008-reposicion",
+      "year": 2008,
+      "date": "2008-02-13",
+      "title": "Reposición de documentos civiles",
+      "description": "El Decreto 9-2008 creó un procedimiento temporal para reponer las partidas y cédulas afectadas.",
+      "status": "documentado",
+      "sources": [
+        {
+          "id": "congreso2008",
+          "label": "Congreso · Decreto 9-2008, reposición del Registro Civil",
+          "url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/2008/09-2008.pdf",
+          "kind": "primaria",
+          "pages": "1–2"
+        }
+      ]
+    },
+    {
+      "id": "2009",
+      "year": 2009,
+      "date": "2009-04-25",
+      "title": "Denominación municipal",
+      "description": "USAC reseña una resolución constitucional contra el acuerdo de 2008 sobre la denominación y el lema.",
+      "status": "referencia_academica",
+      "note": "No interpretar este resumen como prohibición general del lema; consultar el fallo íntegro 2426-2008.",
+      "sources": [
+        {
+          "id": "usac",
+          "label": "USAC · Diagnóstico socioeconómico de Flores Costa Cuca (2013)",
+          "url": "https://biblioteca.usac.edu.gt/EPS/03/03_0860_v1.pdf",
+          "kind": "academica",
+          "pages": "9–12"
+        }
+      ]
+    }
+  ],
+  "mayors": [
+    {
+      "id": "sebastian-israel-de-leon",
+      "nombre": "Sebastián Israel de León Maldonado",
+      "nombreEnUSAC": "Israel de León Maldonado",
+      "displayPeriod": "1985 y 1986 documentados",
+      "periodos": [],
+      "aniosObservados": [
+        1985,
+        1986
+      ],
+      "eleccionesDocumentadas": [],
+      "ventanaElectoralASIES": {
+        "inicio": 1985,
+        "fin": 1988
+      },
+      "partidosDocumentados": [
+        "DCG"
+      ],
+      "evidence": "ASIES registra el nombre completo en su anexo. USAC lo identifica como alcalde en 1986 al reseñar el acta 4-86. Fechas exactas de posesión pendientes.",
+      "status": "documentado_con_fuente_academica",
+      "sources": [
+        {
+          "id": "asies",
+          "label": "ASIES · Supervivencia de partidos, diputados y alcaldes (2016)",
+          "url": "https://asies.org.gt/wp-content/uploads/pdfs/2016%2Csupervivencia_partidospoliticos.pdf",
+          "kind": "academica",
+          "pages": "Anexo de alcaldes, pp. 98, 113, 119, 128, 130, 132"
+        },
+        {
+          "id": "usac",
+          "label": "USAC · Diagnóstico socioeconómico de Flores Costa Cuca (2013)",
+          "url": "https://biblioteca.usac.edu.gt/EPS/03/03_0860_v1.pdf",
+          "kind": "academica",
+          "pages": "9–12"
+        }
+      ]
+    },
+    {
+      "id": "jose-arturo-gramajo",
+      "nombre": "José Arturo Gramajo Ochoa",
+      "displayPeriod": "Elección de 1988",
+      "periodos": [],
+      "aniosObservados": [
+        1988
+      ],
+      "eleccionesDocumentadas": [
+        {
+          "year": 1988,
+          "partido": "DCG",
+          "tipo": "adjudicacion_TSE",
+          "sourceId": "tse1988"
+        }
+      ],
+      "ventanaElectoralASIES": {
+        "inicio": 1988,
+        "fin": 1990
+      },
+      "partidosDocumentados": [
+        "DCG"
+      ],
+      "evidence": "La memoria del TSE lo incluye como alcalde en las adjudicaciones de 1988 según acuerdo departamental, p. 193. No se fijan aquí fechas de ejercicio.",
+      "status": "adjudicacion_documentada",
+      "sources": [
+        {
+          "id": "tse1988",
+          "label": "TSE · Memoria electoral 1988, adjudicaciones",
+          "url": "https://www.tse.org.gt/images/memoriaselec/me/1988_Memoria_Elecciones.pdf",
+          "kind": "primaria",
+          "pages": "193"
+        },
+        {
+          "id": "asies",
+          "label": "ASIES · Supervivencia de partidos, diputados y alcaldes (2016)",
+          "url": "https://asies.org.gt/wp-content/uploads/pdfs/2016%2Csupervivencia_partidospoliticos.pdf",
+          "kind": "academica",
+          "pages": "Anexo de alcaldes, pp. 98, 113, 119, 128, 130, 132"
+        }
+      ]
+    },
+    {
+      "id": "walter-rutilio-moran",
+      "nombre": "Walter Rutilio Morán Girón",
+      "displayPeriod": "1990 documentado",
+      "periodos": [],
+      "aniosObservados": [
+        1990
+      ],
+      "eleccionesDocumentadas": [],
+      "ventanaElectoralASIES": {
+        "inicio": 1990,
+        "fin": 1994
+      },
+      "partidosDocumentados": [
+        "UCN"
+      ],
+      "evidence": "Identificado en el anexo de ASIES. El PDF del TSE de 1990–1991 se localizó, pero su fila municipal no fue cotejada; no se asignan fechas exactas.",
+      "status": "documentado_con_fuente_academica",
+      "sources": [
+        {
+          "id": "asies",
+          "label": "ASIES · Supervivencia de partidos, diputados y alcaldes (2016)",
+          "url": "https://asies.org.gt/wp-content/uploads/pdfs/2016%2Csupervivencia_partidospoliticos.pdf",
+          "kind": "academica",
+          "pages": "Anexo de alcaldes, pp. 98, 113, 119, 128, 130, 132"
+        }
+      ]
+    },
+    {
+      "id": "tito-natanael-vasquez",
+      "nombre": "Tito Natanael Vásquez López",
+      "displayPeriod": "2008–2012 y 2012–2016 reportados; años anteriores pendientes",
+      "periodos": [
+        {
+          "label": "2008–2012",
+          "startYear": 2008,
+          "endYear": 2012,
+          "tipo": "periodo_explicito_fuente_secundaria",
+          "fechasExactas": false,
+          "sourceId": "asies2007",
+          "corroboracionSourceId": "tse2007"
+        },
+        {
+          "label": "2012–2016",
+          "startYear": 2012,
+          "endYear": 2016,
+          "tipo": "periodo_explicito_fuente_secundaria",
+          "fechasExactas": false,
+          "sourceId": "deguate2012"
+        }
+      ],
+      "aniosObservados": [
+        1994,
+        2008,
+        2012,
+        2013
+      ],
+      "eleccionesDocumentadas": [
+        {
+          "year": 2007,
+          "partido": "PU",
+          "tipo": "adjudicacion_TSE",
+          "sourceId": "tse2007",
+          "pdfPage": 372
+        },
+        {
+          "year": 2011,
+          "partido": "UNE-GANA",
+          "tipo": "reporte_periodistico_del_periodo_2012_2016",
+          "sourceId": "deguate2012"
+        }
+      ],
+      "ventanaElectoralASIES": {
+        "inicio": 1994,
+        "fin": 2015,
+        "duracionAcumuladaAnios": 17,
+        "continuidad": false
+      },
+      "partidosDocumentados": [
+        "PSD",
+        "PU",
+        "UNE-GANA"
+      ],
+      "evidence": "TSE lo adjudica alcalde por PU en 2007, p.372. ASIES/ANAM fija el período 2008–2012; Deguate reporta 2012–2016 y Contraloría confirma el cargo en julio de 2013. ASIES registra una trayectoria 1994–2015 con 17 años acumulados, sin desglose completo. La adjudicación de 2003 corresponde a Oswaldo Cecilio Girón Arreaga.",
+      "status": "documentado_con_interrupciones",
+      "sources": [
+        {
+          "id": "tse2007",
+          "label": "TSE · Memoria electoral 2007, Flores Costa Cuca",
+          "url": "https://www.tse.org.gt/images/memoriaselec/Memoria%20Electoral%202007.pdf",
+          "kind": "primaria",
+          "pages": "372–373",
+          "pdfPages": [
+            372,
+            373
+          ],
+          "verification": "Descarga completa; texto extraído con pypdf. Adjudicación de Tito Natanael Vásquez López como alcalde, PU."
+        },
+        {
+          "id": "asies",
+          "label": "ASIES · Supervivencia de partidos, diputados y alcaldes (2016)",
+          "url": "https://asies.org.gt/wp-content/uploads/pdfs/2016%2Csupervivencia_partidospoliticos.pdf",
+          "kind": "academica",
+          "pages": "Anexo de alcaldes, pp. 98, 113, 119, 128, 130, 132"
+        },
+        {
+          "id": "asies2007",
+          "label": "ASIES / ANAM · Alcaldes electos en 2007 para 2008–2012",
+          "url": "https://www.kas.de/c/document_library/get_file?groupId=252038&uuid=43bb5866-29bf-d301-3197-b98f2841c5ba#page=168",
+          "kind": "academica",
+          "pages": "167"
+        },
+        {
+          "id": "deguate2012",
+          "label": "Deguate · Alcaldes de Quetzaltenango 2012–2016",
+          "url": "https://www.deguate.com/artman/publish/gobernadores-alcaldes-de-guatemala/alcaldes-del-departamento-de-quetzaltenango-ano-2012.shtml",
+          "kind": "secundaria"
+        },
+        {
+          "id": "cgc2013",
+          "label": "Contraloría · Examen preventivo de 2013, Flores Costa Cuca",
+          "url": "https://www.contraloria.gob.gt/imagenes/i_docs/i_DCGP013/archivos/MUNICIPALIDADES/TOMO_II.pdf",
+          "kind": "primaria",
+          "observationDate": "2013-07-25"
+        }
+      ]
+    },
+    {
+      "id": "oswaldo-cecilio-giron",
+      "nombre": "Oswaldo Cecilio Girón Arreaga",
+      "displayPeriod": "Elección de 2003",
+      "periodos": [],
+      "aniosObservados": [
+        2003
+      ],
+      "eleccionesDocumentadas": [
+        {
+          "year": 2003,
+          "partido": "CUF",
+          "tipo": "adjudicacion_TSE",
+          "sourceId": "tse2003"
+        }
+      ],
+      "ventanaElectoralASIES": {
+        "inicio": 2003,
+        "fin": 2007
+      },
+      "partidosDocumentados": [
+        "CUF"
+      ],
+      "evidence": "TSE lo adjudica alcalde en 2003, p. 344. ASIES usa CCE1 para comité cívico; conservar CUF del documento electoral. La ventana 2003–2007 no se convierte en fechas de posesión.",
+      "status": "adjudicacion_documentada",
+      "sources": [
+        {
+          "id": "tse2003",
+          "label": "TSE · Elecciones 2003, Flores Costa Cuca",
+          "url": "https://www.tse.org.gt/images/memoriaselec/memoria_electoral_2003/Quetzaltenango/FloresCostaCuca.pdf",
+          "kind": "primaria",
+          "pages": "344"
+        },
+        {
+          "id": "asies",
+          "label": "ASIES · Supervivencia de partidos, diputados y alcaldes (2016)",
+          "url": "https://asies.org.gt/wp-content/uploads/pdfs/2016%2Csupervivencia_partidospoliticos.pdf",
+          "kind": "academica",
+          "pages": "Anexo de alcaldes, pp. 98, 113, 119, 128, 130, 132"
+        }
+      ]
+    },
+    {
+      "id": "mario-rene-lozano",
+      "nombre": "Mario René Lozano Girón",
+      "displayPeriod": "2016–2020 reportado · 2020–2024 y 2024–2028 adjudicados",
+      "periodos": [
+        {
+          "label": "2016–2020",
+          "startYear": 2016,
+          "endYear": 2020,
+          "tipo": "periodo_explicito_fuente_secundaria_con_adjudicacion_TSE",
+          "fechasExactas": false,
+          "sourceId": "deguate2015",
+          "corroboracionSourceId": "tse2015"
+        },
+        {
+          "label": "2020–2024",
+          "startYear": 2020,
+          "endYear": 2024,
+          "tipo": "periodo_electoral_legalmente_adjudicado",
+          "sourceId": "tse2019",
+          "corroboracionSourceId": "cgc2021",
+          "fechaInicioProgramada": "2020-01-15",
+          "duracionAnios": 4,
+          "fechasExactas": false,
+          "evidence": "Art.44 adjudica el cargo y art.49 fija cuatro años a partir de la posesión programada el 15 de enero de 2020. No se afirma aquí una fecha efectiva de cese ni continuidad diaria."
+        },
+        {
+          "label": "2024–2028",
+          "startYear": 2024,
+          "endYear": 2028,
+          "tipo": "periodo_electoral_legalmente_adjudicado",
+          "sourceId": "tse2023",
+          "corroboracionSourceId": "municipal2024",
+          "fechaInicioProgramada": "2024-01-15",
+          "duracionAnios": 4,
+          "fechasExactas": false,
+          "evidence": "Art.2 adjudica el cargo y art.4 fija cuatro años a partir de la posesión programada el 15 de enero de 2024. El directorio municipal de febrero de 2024 confirma el cargo; no es seguimiento continuo del ejercicio hasta octubre de 2026."
+        }
+      ],
+      "aniosObservados": [
+        2015,
+        2021,
+        2024
+      ],
+      "eleccionesDocumentadas": [
+        {
+          "year": 2015,
+          "partido": "LIDER",
+          "tipo": "adjudicacion_TSE_Acuerdo_23_2015",
+          "sourceId": "tse2015"
+        },
+        {
+          "year": 2019,
+          "partido": "VAMOS",
+          "tipo": "adjudicacion_TSE_Acuerdo_01_2019_articulo_44",
+          "sourceId": "tse2019",
+          "pdfPage": 20
+        },
+        {
+          "year": 2023,
+          "partido": "VAMOS",
+          "tipo": "adjudicacion_TSE_Acuerdo_24_2023_articulo_2",
+          "sourceId": "tse2023",
+          "pdfPage": 2
+        }
+      ],
+      "partidosDocumentados": [
+        "LIDER",
+        "VAMOS"
+      ],
+      "evidence": "TSE 23-2015 adjudica el cargo; el período 2016–2020 está reportado en fuente secundaria. Acuerdo 01-2019, arts.44 y49, adjudica el período de cuatro años con posesión programada el 15 de enero de 2020. Acuerdo 24-2023, arts.2 y4, hace lo mismo para el 15 de enero de 2024. Auditoría de 2021 y directorio municipal de 2024 corroboran el ejercicio.",
+      "status": "documentado_en_varias_administraciones",
+      "sources": [
+        {
+          "id": "tse2015",
+          "label": "TSE · Acuerdo 23-2015, Junta Electoral Departamental",
+          "url": "https://tse.org.gt/images/acuerdos_coorporaciones/ACUERDOS_QUETZALTENANGO.pdf",
+          "kind": "primaria",
+          "locator": "Acuerdo 23-2015, artículos 1 y 2"
+        },
+        {
+          "id": "deguate2015",
+          "label": "Deguate · Resultados oficiales atribuidos al TSE, período 2016–2020",
+          "url": "https://www.deguate.com/artman/publish/politica-eleccion2015-alcaldes/resultados-eleccion-de-alcaldes-en-quetzaltenango_printer.shtml?m=yes",
+          "kind": "secundaria"
+        },
+        {
+          "id": "tse2019",
+          "label": "TSE · Acuerdo 01-2019 de Quetzaltenango, artículos 43, 44 y 49",
+          "url": "https://tse.org.gt/images/Acuerdos2019/alcaldias/QUE01-2019.pdf",
+          "kind": "primaria",
+          "pdfPages": [
+            20,
+            21,
+            22
+          ],
+          "verification": "PDF escaneado completo, revisado visualmente. Art.44 adjudica a Mario René Lozano Girón, VAMOS; art.49 prescribe cuatro años y posesión el 15 de enero de 2020.",
+          "agreementDate": "2019-07-26"
+        },
+        {
+          "id": "cgc2021",
+          "label": "Contraloría · Auditoría municipal de 2021",
+          "url": "https://www.muniflorescostacuca.laip.gt/index.php/files/916/23-AUDITORIAS/1ypEj0w2i-nxv62sUKtUE8luvQJ5PRanY/N232021-Informe-Auditoria-2021.pdf",
+          "kind": "primaria",
+          "note": "Texto comprobado mediante indexación web; descarga directa devolvió error."
+        },
+        {
+          "id": "tse2023",
+          "label": "TSE · Acuerdo 24-2023, Flores Costa Cuca",
+          "url": "https://tse.org.gt/images/ss/cme/que_24-2023.pdf",
+          "kind": "primaria",
+          "pdfPages": [
+            2,
+            3,
+            4
+          ],
+          "verification": "PDF escaneado completo revisado visualmente. Art.2 adjudica a Mario René Lozano Girón, VAMOS; art.4 prescribe cuatro años y posesión el 15 de enero de 2024.",
+          "agreementDate": "2023-08-01"
+        },
+        {
+          "id": "municipal2024",
+          "label": "Municipalidad · Directorio de empleados, febrero de 2024",
+          "url": "https://muniflorescostacuca.laip.gt/index.php/files/879/03-DIRECTORIO-DE-EMPLEADOS/1MlOpsGPsvJTiG-vPMh65lVbTIRalTq7n/N03022024-DIRECTORIO-DE-EMPLEADOS-.pdf",
+          "kind": "primaria",
+          "note": "Nombre y cargo comprobados mediante indexación web."
+        }
+      ]
+    }
+  ],
+  "lagunas": [
+    {
+      "periodo": "1900–1984",
+      "description": "No se recuperó una nómina nominal de alcaldes de este tramo. La creación del municipio está documentada, pero no la identidad de su primera corporación.",
+      "nextEvidence": "Actas de posesión, copias en Archivo General de Centro América, Diario de Centro América, archivos departamentales y documentación municipal recuperada."
+    },
+    {
+      "periodo": "1985–2003",
+      "description": "Hay nombres y adjudicaciones parciales; faltan fechas exactas de posesión y separación completa de los tramos de Tito Natanael Vásquez López.",
+      "nextEvidence": "Cotejar memorias TSE de 1985, 1990–1991, 1993, 1995–1996, 1998 y 1999; ASIES no basta para continuidad."
+    },
+    {
+      "periodo": "2003–2016",
+      "description": "Adjudicaciones TSE de 2003 y 2007 verificadas. Los períodos 2008–2012 y 2012–2016 tienen fuentes secundarias; falta texto electoral de 2011 y fechas efectivas de posesión/cese.",
+      "nextEvidence": "Actas de posesión de 2004, 2008, 2012 y acuerdo electoral de 2011."
+    },
+    {
+      "periodo": "2023–2026",
+      "description": "Acuerdo 24-2023 leído y directorio municipal de 2024 cotejado. El período electoral 2024–2028 está adjudicado; falta un directorio vigente de 2026 para una afirmación separada sobre el ejercicio actual.",
+      "nextEvidence": "Directorio municipal o acta vigente de 2026."
+    },
+    {
+      "periodo": "1912",
+      "description": "Las fuentes consultadas discrepan sobre la rescisión/inscripción del negocio del traslado de 1911.",
+      "nextEvidence": "Acuerdo gubernativo original del 30 de noviembre de 1912."
+    },
+    {
+      "periodo": "Archivo municipal",
+      "description": "El incendio de 2008 destruyó libros civiles; USAC reseña destrucción documental municipal y reconstrucción parcial. Esto explica un obstáculo, sin probar la pérdida de toda copia histórica.",
+      "sources": [
+        {
+          "id": "congreso2008",
+          "label": "Congreso · Decreto 9-2008, reposición del Registro Civil",
+          "url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/2008/09-2008.pdf",
+          "kind": "primaria",
+          "pages": "1–2"
+        },
+        {
+          "id": "usac",
+          "label": "USAC · Diagnóstico socioeconómico de Flores Costa Cuca (2013)",
+          "url": "https://biblioteca.usac.edu.gt/EPS/03/03_0860_v1.pdf",
+          "kind": "academica",
+          "pages": "9–12"
+        }
+      ]
+    }
+  ],
+  "archivalStatus": {
+    "eventDate": "2008-01-14",
+    "confirmedLoss": "Libros de partidas del Registro Civil y asientos de cédulas de vecindad, según Decreto 9-2008.",
+    "additionalAcademicReport": "USAC también reseña documentación y mobiliario municipal consumidos y recuperación de copia del acta 4-86.",
+    "replacementLaw": "Decreto 9-2008, emitido el 13 de febrero de 2008",
+    "sources": [
+      {
+        "id": "congreso2008",
+        "label": "Congreso · Decreto 9-2008, reposición del Registro Civil",
+        "url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/2008/09-2008.pdf",
+        "kind": "primaria",
+        "pages": "1–2"
+      },
+      {
+        "id": "usac",
+        "label": "USAC · Diagnóstico socioeconómico de Flores Costa Cuca (2013)",
+        "url": "https://biblioteca.usac.edu.gt/EPS/03/03_0860_v1.pdf",
+        "kind": "academica",
+        "pages": "9–12"
+      }
+    ]
+  },
+  "unreviewedPrimaryMemories": [
+    {
+      "year": 1985,
+      "url": "https://tse.org.gt/images/memoriaselec/me/1985_Memoria_Elecciones.pdf"
+    },
+    {
+      "year": 1990,
+      "url": "https://tse.org.gt/images/memoriaselec/me/1990-1991_Elecciones_Generales.pdf"
+    },
+    {
+      "year": 1995,
+      "url": "https://tse.org.gt/images/memoriaselec/me/1995-1996_Memoria_Elecciones.pdf"
+    },
+    {
+      "year": 1999,
+      "url": "https://tse.org.gt/images/memoriaselec/me/1999_Memoria_Elecciones.pdf"
+    },
+    {
+      "year": 2011,
+      "url": "https://tse.org.gt/images/memoriaselec/me/2011_Memoria_Elecciones.pdf"
+    }
+  ],
+  "researchLimitations": "Las adjudicaciones de 2007, 2019 y 2023 se comprobaron directamente en PDFs oficiales descargados. Las memorias de1985 y1990 están completas, pero escaneadas sin texto pypdf; sus filas municipales no se cotejaron. Los restantes documentos antiguos siguen pendientes de lectura completa. No se usa un archivo truncado como evidencia.",
+  "sources": {
+    "segeplan": {
+      "label": "SEGEPLAN · Plan de Desarrollo Municipal de Flores Costa Cuca",
+      "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2022/09/PDM_922-1.pdf",
+      "kind": "institucional",
+      "pages": "18–19"
+    },
+    "usac": {
+      "label": "USAC · Diagnóstico socioeconómico de Flores Costa Cuca (2013)",
+      "url": "https://biblioteca.usac.edu.gt/EPS/03/03_0860_v1.pdf",
+      "kind": "academica",
+      "pages": "9–12"
+    },
+    "asies": {
+      "label": "ASIES · Supervivencia de partidos, diputados y alcaldes (2016)",
+      "url": "https://asies.org.gt/wp-content/uploads/pdfs/2016%2Csupervivencia_partidospoliticos.pdf",
+      "kind": "academica",
+      "pages": "Anexo de alcaldes, pp. 98, 113, 119, 128, 130, 132"
+    },
+    "tse1988": {
+      "label": "TSE · Memoria electoral 1988, adjudicaciones",
+      "url": "https://www.tse.org.gt/images/memoriaselec/me/1988_Memoria_Elecciones.pdf",
+      "kind": "primaria",
+      "pages": "193"
+    },
+    "tse2003": {
+      "label": "TSE · Elecciones 2003, Flores Costa Cuca",
+      "url": "https://www.tse.org.gt/images/memoriaselec/memoria_electoral_2003/Quetzaltenango/FloresCostaCuca.pdf",
+      "kind": "primaria",
+      "pages": "344"
+    },
+    "asies2007": {
+      "label": "ASIES / ANAM · Alcaldes electos en 2007 para 2008–2012",
+      "url": "https://www.kas.de/c/document_library/get_file?groupId=252038&uuid=43bb5866-29bf-d301-3197-b98f2841c5ba#page=168",
+      "kind": "academica",
+      "pages": "167"
+    },
+    "cgc2013": {
+      "label": "Contraloría · Examen preventivo de 2013, Flores Costa Cuca",
+      "url": "https://www.contraloria.gob.gt/imagenes/i_docs/i_DCGP013/archivos/MUNICIPALIDADES/TOMO_II.pdf",
+      "kind": "primaria",
+      "observationDate": "2013-07-25"
+    },
+    "tse2015": {
+      "label": "TSE · Acuerdo 23-2015, Junta Electoral Departamental",
+      "url": "https://tse.org.gt/images/acuerdos_coorporaciones/ACUERDOS_QUETZALTENANGO.pdf",
+      "kind": "primaria",
+      "locator": "Acuerdo 23-2015, artículos 1 y 2"
+    },
+    "deguate2012": {
+      "label": "Deguate · Alcaldes de Quetzaltenango 2012–2016",
+      "url": "https://www.deguate.com/artman/publish/gobernadores-alcaldes-de-guatemala/alcaldes-del-departamento-de-quetzaltenango-ano-2012.shtml",
+      "kind": "secundaria"
+    },
+    "deguate2015": {
+      "label": "Deguate · Resultados oficiales atribuidos al TSE, período 2016–2020",
+      "url": "https://www.deguate.com/artman/publish/politica-eleccion2015-alcaldes/resultados-eleccion-de-alcaldes-en-quetzaltenango_printer.shtml?m=yes",
+      "kind": "secundaria"
+    },
+    "prensa2020": {
+      "label": "Prensa Libre · Alcaldes de Quetzaltenango 2020–2024",
+      "url": "https://www.prensalibre.com/ciudades/quetzaltenango/conozca-a-los-24-alcaldes-de-quetzaltenango-para-el-periodo-2020-2024/",
+      "kind": "periodistica"
+    },
+    "cgc2021": {
+      "label": "Contraloría · Auditoría municipal de 2021",
+      "url": "https://www.muniflorescostacuca.laip.gt/index.php/files/916/23-AUDITORIAS/1ypEj0w2i-nxv62sUKtUE8luvQJ5PRanY/N232021-Informe-Auditoria-2021.pdf",
+      "kind": "primaria",
+      "note": "Texto comprobado mediante indexación web; descarga directa devolvió error."
+    },
+    "municipal2024": {
+      "label": "Municipalidad · Directorio de empleados, febrero de 2024",
+      "url": "https://muniflorescostacuca.laip.gt/index.php/files/879/03-DIRECTORIO-DE-EMPLEADOS/1MlOpsGPsvJTiG-vPMh65lVbTIRalTq7n/N03022024-DIRECTORIO-DE-EMPLEADOS-.pdf",
+      "kind": "primaria",
+      "note": "Nombre y cargo comprobados mediante indexación web."
+    },
+    "tse2023index": {
+      "label": "TSE · Acuerdo 24-2023 de Flores Costa Cuca",
+      "url": "https://tse.org.gt/comunicacion/publicaciones/corporaciones-municipales-electas-2023/corporacion-quetzaltenango",
+      "kind": "primaria",
+      "note": "El índice confirma el acuerdo; el texto interior del PDF no fue recuperado."
+    },
+    "stereo2023": {
+      "label": "Stereo 100 · Alcaldes electos, 28 de junio de 2023",
+      "url": "https://stereo100.com.gt/2023/conozca-a-los-24-alcaldes-electos-en-el-departamento-de-quetzaltenango/",
+      "kind": "periodistica"
+    },
+    "yovoto2024": {
+      "label": "Yo Voto Mejor · Mario René Lozano Girón, electo 2024–2028",
+      "url": "https://yovotomejor.com/products/mario-rene-lozano-giron-1",
+      "kind": "secundaria",
+      "note": "El perfil tiene un rótulo genérico 'Nuevo Alcalde'; otras fuentes de 2023 lo describen como reelecto."
+    },
+    "congreso2008": {
+      "label": "Congreso · Decreto 9-2008, reposición del Registro Civil",
+      "url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/2008/09-2008.pdf",
+      "kind": "primaria",
+      "pages": "1–2"
+    },
+    "municipalHistory": {
+      "label": "Municipalidad · Historia Flores C.C.",
+      "url": "https://muniflorescostacuca.laip.gt/index.php/files/921/29-INFORMACION-ADICIONAL/1xj0TXNSZH-RIowhcLwfSvhDsnO_Hs-_r/N29A-Historia-Flores-CC.pdf",
+      "kind": "institucional",
+      "note": "Documento publicado en el portal municipal; contenido parcialmente indexado, descarga directa falló."
+    },
+    "municipalPortal": {
+      "label": "Municipalidad · Información adicional, historia y mapas",
+      "url": "https://www.muniflorescostacuca.laip.gt/index.php/29-informacion-adicional",
+      "kind": "primaria"
+    },
+    "tseIndex": {
+      "label": "TSE · Índice de memorias electorales",
+      "url": "https://tse.org.gt/index.php/comunicacion/publicaciones/memorias/memorias-electorales-2",
+      "kind": "primaria"
+    },
+    "tse2007": {
+      "label": "TSE · Memoria electoral 2007, Flores Costa Cuca",
+      "url": "https://www.tse.org.gt/images/memoriaselec/Memoria%20Electoral%202007.pdf",
+      "kind": "primaria",
+      "pages": "372–373",
+      "pdfPages": [
+        372,
+        373
+      ],
+      "verification": "Descarga completa; texto extraído con pypdf. Adjudicación de Tito Natanael Vásquez López como alcalde, PU."
+    },
+    "tse2019": {
+      "label": "TSE · Acuerdo 01-2019 de Quetzaltenango, artículos 43, 44 y 49",
+      "url": "https://tse.org.gt/images/Acuerdos2019/alcaldias/QUE01-2019.pdf",
+      "kind": "primaria",
+      "pdfPages": [
+        20,
+        21,
+        22
+      ],
+      "verification": "PDF escaneado completo, revisado visualmente. Art.44 adjudica a Mario René Lozano Girón, VAMOS; art.49 prescribe cuatro años y posesión el 15 de enero de 2020.",
+      "agreementDate": "2019-07-26"
+    },
+    "tse2023": {
+      "label": "TSE · Acuerdo 24-2023, Flores Costa Cuca",
+      "url": "https://tse.org.gt/images/ss/cme/que_24-2023.pdf",
+      "kind": "primaria",
+      "pdfPages": [
+        2,
+        3,
+        4
+      ],
+      "verification": "PDF escaneado completo revisado visualmente. Art.2 adjudica a Mario René Lozano Girón, VAMOS; art.4 prescribe cuatro años y posesión el 15 de enero de 2024.",
+      "agreementDate": "2023-08-01"
+    }
+  },
+  "reviewedPrimaryFiles": [
+    {
+      "file": "electoral-1985.pdf",
+      "year": 1985,
+      "pages": 486,
+      "state": "PDF completo escaneado sin texto pypdf; fila municipal pendiente"
+    },
+    {
+      "file": "electoral-1990.pdf",
+      "year": 1990,
+      "pages": 479,
+      "state": "PDF completo escaneado sin texto pypdf; fila municipal pendiente"
+    },
+    {
+      "file": "electoral-2007.pdf",
+      "year": 2007,
+      "pages": 890,
+      "state": "Texto extraído; páginas372–373 municipales comprobadas"
+    },
+    {
+      "file": "electoral-2019.pdf",
+      "year": 2019,
+      "pages": 22,
+      "state": "Revisión visual de páginas20–22"
+    },
+    {
+      "file": "electoral-2023.pdf",
+      "year": 2023,
+      "pages": 4,
+      "state": "Revisión visual de páginas2–4"
+    }
+  ]
+}
