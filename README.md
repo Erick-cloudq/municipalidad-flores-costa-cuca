@@ -23,6 +23,20 @@ Las imágenes mantienen sus licencias propias. No se incorporaron fotografías r
 
 La sección de historia incluye ampliación de la imagen, descarga y una transcripción del texto visible. Se regularizan los saltos de línea, espacios y comillas. No se atribuyen las firmas a partir de la fotografía.
 
+## Feria de Candelaria — actualización del 9 de octubre de 2026
+
+La sección `#feria` documenta el día principal anual del 2 de febrero, con las fuentes de SEGEPLAN y de la historia municipal. La cuenta regresiva utiliza `America/Guatemala`, se mantiene en cero durante el 2 de febrero completo y pasa al año siguiente el día 3.
+
+El calendario permite navegar por meses y seleccionar días con ratón o teclado. La fecha tradicional se distingue de actividades oficialmente confirmadas. `feria-data.js` mantiene `programEvents` vacío porque no se obtuvo un programa oficial de 2027 verificado. Para añadir actividades futuras, cada registro debe contener `date` (AAAA-MM-DD), `title`, `time`, `place` y `source` (anuncio oficial).
+
+La galería separa una ilustración temática, la fotografía documental del parque en 2012 y la reproducción del acuerdo de 1900. La ilustración `candelaria-ilustracion.png` fue creada con el built-in ImageGen: tres velas marfil encendidas, luz ámbar, fondo azul petróleo, textura pintada, formato 3:2; sin textos, personas, insignias ni edificios. No representa una fotografía de la feria.
+
+El video `Puestos de la feria 2024 en Flores Costa Cuca`, de Daniel Méndez, se carga en el reproductor oficial de YouTube cuando el visitante lo solicita. Su URL y atribución se comprobaron mediante oEmbed. Se enlaza también a la cobertura fotográfica de Guatemala.com de 2019; no se republican sus fotografías.
+
+`feria-candelaria.ics` permite guardar la conmemoración anual del 2 de febrero. No equivale al programa oficial de actividades.
+
+Prompt de la ilustración: «Ilustración editorial elegante de tres velas marfil encendidas como símbolo de Candelaria; cálida luz ámbar sobre fondo azul petróleo muy oscuro, detalles sutiles de pétalos claros y textura artística pintada. Composición horizontal 3:2 limpia. Sin texto, insignias oficiales, personas, edificios ni paisajes. No representar un lugar real ni aparentar una fotografía de la feria de Flores Costa Cuca».
+
 ## Publicación y edición
 
 Sitio estático: no requiere instalación ni servidor de aplicaciones. GitHub Pages sirve la rama `main`, carpeta raíz. Se puede abrir `index.html` localmente o usar un servidor estático para una vista previa.

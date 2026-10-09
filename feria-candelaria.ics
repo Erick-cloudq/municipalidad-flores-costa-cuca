@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Flores Costa Cuca Informativo//Candelaria//ES
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:candelaria-2-febrero@erick-cloudq.github.io
+DTSTAMP:20261009T120000Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+RRULE:FREQ=YEARLY;BYMONTH=2;BYMONTHDAY=2
+SUMMARY:Dia principal de Candelaria - Flores Costa Cuca
+DESCRIPTION:Fecha tradicional anual del 2 de febrero. El programa de activ
+ idades de cada edicion requiere confirmacion municipal.
+LOCATION:Flores Costa Cuca\, Quetzaltenango\, Guatemala
+URL:https://erick-cloudq.github.io/municipalidad-flores-costa-cuca/#feria
+END:VEVENT
+END:VCALENDAR
