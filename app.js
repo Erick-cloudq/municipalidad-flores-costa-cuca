@@ -62,6 +62,16 @@
     $('#photo-title').textContent=photo.title;
     $('#photo-credit').textContent=photo.credit;
     $('#photo-source').href=photo.source;
+    $('#photo-source').textContent='Ver fotografía original';
+    $('#photo-dialog').showModal();
+  });
+  $('#document-open').addEventListener('click', () => {
+    $('#photo-image').src='acuerdo-fundacion-1900.png';
+    $('#photo-image').alt='Reproducción del documento fechado el 18 de diciembre de 1900 sobre la creación del municipio de Flores';
+    $('#photo-title').textContent='Acuerdo de fundación · 18 de diciembre de 1900';
+    $('#photo-credit').textContent='Copia aportada a este proyecto el 9 de octubre de 2026. Procedencia archivística pendiente de identificar.';
+    $('#photo-source').href='acuerdo-fundacion-1900.png';
+    $('#photo-source').textContent='Ver imagen a tamaño completo';
     $('#photo-dialog').showModal();
   });
   $('#sources-list').innerHTML = data.featuredSources.map((source, i) => `<a class="source-item" href="${escape(source.url)}" target="_blank" rel="noopener noreferrer"><span class="source-number">0${i + 1}</span><span><strong>${escape(source.shortTitle)}</strong><small>${escape(source.description)}</small></span><span class="external" aria-hidden="true">↗</span></a>`).join('');

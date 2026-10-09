@@ -17,6 +17,12 @@ La investigación del 6 de octubre de 2026 identifica seis alcaldes. La lista an
 
 Las imágenes mantienen sus licencias propias. No se incorporaron fotografías reservadas de terceros ni imágenes de municipios homónimos.
 
+## Documento fundacional añadido el 9 de octubre de 2026
+
+`acuerdo-fundacion-1900.png` es una copia aportada por el propietario del sitio. Se conserva la imagen recibida, sin retoques. La procedencia archivística de esta reproducción está pendiente de identificar; no se presenta como una copia autenticada.
+
+La sección de historia incluye ampliación de la imagen, descarga y una transcripción del texto visible. Se regularizan los saltos de línea, espacios y comillas. No se atribuyen las firmas a partir de la fotografía.
+
 ## Publicación y edición
 
 Sitio estático: no requiere instalación ni servidor de aplicaciones. GitHub Pages sirve la rama `main`, carpeta raíz. Se puede abrir `index.html` localmente o usar un servidor estático para una vista previa.
